@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2E960D05-C5D1-41B7-A311-46ED47CEE80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDeDecisao", "LogicaDeDecisao\LogicaDeDecisao.csproj", "{50CA9821-A792-49DD-AEC8-DBFD665E83E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDecisaoIf", "LogicaDecisaoIf\LogicaDecisaoIf.csproj", "{18E0E1B0-BD86-4DAE-B5E7-3FD90AF9D0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizForeach", "MatrizForeach\MatrizForeach.csproj", "{34DE6FEA-1B0F-4442-BD64-C88C760591CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizForeachExercicio", "MatrizForeachExercicio\MatrizForeachExercicio.csproj", "{D9D0CF06-A5CE-442C-B046-852AFE65EEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachIfToProcessArray", "ForeachIfToProcessArray\ForeachIfToProcessArray.csproj", "{59078CAA-9960-43A0-A07D-97DC6189F218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeForeachIfProcessArray", "ChallengeForeachIfProcessArray\ChallengeForeachIfProcessArray.csproj", "{6B69CF94-5992-4291-B762-D615C1A6C04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresCondicionais", "OperadoresCondicionais\OperadoresCondicionais.csproj", "{1BD854B2-6743-44D7-AEED-B0D9DA6A31C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpCondHeadOrTails", "OpCondHeadOrTails\OpCondHeadOrTails.csproj", "{DF394996-B8B8-4837-B1F7-36417BFD2D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpCondIfElse", "OpCondIfElse\OpCondIfElse.csproj", "{248007D4-4595-4F48-8DAB-59B76CDA3FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlocksAndVariableScope", "CodeBlocksAndVariableScope\CodeBlocksAndVariableScope.csproj", "{46D27012-985A-4C09-BB62-170B41F27C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E960D05-C5D1-41B7-A311-46ED47CEE80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E960D05-C5D1-41B7-A311-46ED47CEE80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E960D05-C5D1-41B7-A311-46ED47CEE80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E960D05-C5D1-41B7-A311-46ED47CEE80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CA9821-A792-49DD-AEC8-DBFD665E83E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CA9821-A792-49DD-AEC8-DBFD665E83E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CA9821-A792-49DD-AEC8-DBFD665E83E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CA9821-A792-49DD-AEC8-DBFD665E83E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E0E1B0-BD86-4DAE-B5E7-3FD90AF9D0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E0E1B0-BD86-4DAE-B5E7-3FD90AF9D0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E0E1B0-BD86-4DAE-B5E7-3FD90AF9D0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E0E1B0-BD86-4DAE-B5E7-3FD90AF9D0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DE6FEA-1B0F-4442-BD64-C88C760591CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DE6FEA-1B0F-4442-BD64-C88C760591CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DE6FEA-1B0F-4442-BD64-C88C760591CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DE6FEA-1B0F-4442-BD64-C88C760591CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D0CF06-A5CE-442C-B046-852AFE65EEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D0CF06-A5CE-442C-B046-852AFE65EEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D0CF06-A5CE-442C-B046-852AFE65EEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D0CF06-A5CE-442C-B046-852AFE65EEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59078CAA-9960-43A0-A07D-97DC6189F218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59078CAA-9960-43A0-A07D-97DC6189F218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59078CAA-9960-43A0-A07D-97DC6189F218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59078CAA-9960-43A0-A07D-97DC6189F218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B69CF94-5992-4291-B762-D615C1A6C04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B69CF94-5992-4291-B762-D615C1A6C04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B69CF94-5992-4291-B762-D615C1A6C04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B69CF94-5992-4291-B762-D615C1A6C04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD854B2-6743-44D7-AEED-B0D9DA6A31C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD854B2-6743-44D7-AEED-B0D9DA6A31C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD854B2-6743-44D7-AEED-B0D9DA6A31C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD854B2-6743-44D7-AEED-B0D9DA6A31C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF394996-B8B8-4837-B1F7-36417BFD2D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF394996-B8B8-4837-B1F7-36417BFD2D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF394996-B8B8-4837-B1F7-36417BFD2D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF394996-B8B8-4837-B1F7-36417BFD2D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248007D4-4595-4F48-8DAB-59B76CDA3FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248007D4-4595-4F48-8DAB-59B76CDA3FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248007D4-4595-4F48-8DAB-59B76CDA3FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248007D4-4595-4F48-8DAB-59B76CDA3FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D27012-985A-4C09-BB62-170B41F27C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D27012-985A-4C09-BB62-170B41F27C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D27012-985A-4C09-BB62-170B41F27C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D27012-985A-4C09-BB62-170B41F27C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
